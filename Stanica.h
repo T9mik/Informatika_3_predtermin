@@ -13,6 +13,7 @@ public:
 	void vypisStanicu();
 	void priradStaniciKod();
 	void priradStaniciKolaje(std::string kolaj);
+	void zoradKolajeStanice();
 	~Stanica();
 };
 
